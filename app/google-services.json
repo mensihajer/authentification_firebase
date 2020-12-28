@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80376103633",
+    "project_id": "authentification-firebas-46c21",
+    "storage_bucket": "authentification-firebas-46c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80376103633:android:dce23918b357daf163fbf0",
+        "android_client_info": {
+          "package_name": "com.hajer_mensi.authentification_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80376103633-9018qebuemvlv9r2qo2s26u37id4igh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxrx58t30LLkVb87_Ztf0CDjHRJpDDFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80376103633-9018qebuemvlv9r2qo2s26u37id4igh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
